@@ -1,0 +1,8 @@
+
+{
+  "name": "Veri",
+  "description": "تطبيق تقييم المجتمع وحمايته من الاحتيال داخل Pi Network",
+  "url": "https://your-deployment-url.com",
+  "permissions": ["username", "wallet_address", "payments"],
+  "redirect_uri": "https://your-deployment-url.com/auth/callback"
+}
